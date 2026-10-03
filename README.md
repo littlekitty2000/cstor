@@ -18,5 +18,5 @@ How to stop
 -
 Use either ctrl+c or type ```stop``` and hit enter
 ###### Sorry but I don't know python so I asked AI to autimate certain commands in python (sorry...)
-#Have fun ig
+# Have fun ig
 ###### also I know that you're either a nerd thinking this is fun, an edgy teenager thinking "oooh dark web at school", or a not-so-edgy teenager thinking "UnBlOcKeD gAmEs!!!". Either way USE IT.
