@@ -7,7 +7,7 @@ import threading
 def stop_environment():
     print("\n[*] Cleaning and clearing shit...")
     subprocess.run("sudo fuser -k 8080/tcp && killall -9 Xvfb xpra firefox-esr 2>/dev/null", shell=True)
-    print("Adios amigo")
+    print("Goodbye nerd")
     os._exit(0)
 
 def monitor_text_input():
@@ -41,7 +41,7 @@ def start_environment():
     print("Tor")
     print("Why are you still here? If you don't know how to use this then READ THE README")
     print("=======================================================")
-    print("\nok what did I JUST say lil bro")
+    print("\nok what did I JUST say?")
 
 if __name__ == "__main__":
     try:
