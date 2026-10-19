@@ -1,4 +1,6 @@
-# Tor, but in Codespaces
+# Firefox, but in Codespaces
+### THIS IS A BRANCH!!! THIS BRANCH REMOVES TOR!!!
+### THIS BRANCH WAS MADE WITH COMMIT "d0df24d"
 ###### rather CPU heavy.
 
 This is intended for Codespaces but can probably be used in normal Ubuntu idk
